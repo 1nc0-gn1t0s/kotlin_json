@@ -1,4 +1,10 @@
 {
-    "field1": "Hey",
-    "field2": "World"
+    "greeting": {
+        "field1": "Hello",
+        "field2": "World"
+    },
+    "farewell": {
+        "field1": "Hello",
+        "field2": "World"
+    }
 }
